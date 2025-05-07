@@ -74,10 +74,6 @@ The tool will automatically:
 
 This tool is provided for **educational purposes only**. The developers assume no liability and are not responsible for any misuse or damage caused by this program. Always ensure you have proper authorization before testing on any system.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 💻 Development
 
 ### Building Executable
